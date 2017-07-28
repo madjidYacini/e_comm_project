@@ -1,0 +1,71 @@
+table {
+
+border-collapse: collapse;
+width: 50%;
+box-shadow:  2px 2px #1a8c97 ;
+margin: auto;
+}
+td,th
+{
+border: 2px groove #1a8c97;
+text-align: center;
+border-radius: 7px;
+width: 10px ;
+text-shadow: 1px 1px  #1a8c97 ;
+	text-transform: capitalize;
+
+}
+h2.p{
+	font-family: "Fira Sans", "Source Sans Pro", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size:  50px;
+	text-overflow: 40px;
+	text-shadow: 1px 2px  #1a8c97 ;
+	text-transform: capitalize;
+}
+h2{
+	font-family: "Fira Sans", "Source Sans Pro", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size:  1em;
+	text-overflow: 40px;
+}
+h2.mod{
+	font-family: "Fira Sans", "Source Sans Pro", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size:  5em;
+	text-overflow: 40px;
+	text-transform: capitalize;
+	color: black;
+}
+h1{
+
+	
+	text-align: center;
+	font-size: 50px ;
+}
+caption {
+	text-shadow: 4px 4px  yellow ;
+	text-align: center;
+	font-size: 50px ;
+}
+tr {
+    background-color: #dddddd;
+text-decoration: underline;
+}
+span{
+	text-decoration: underline;
+	color: #a45267;
+	font-size: 30px;
+	font-style: italic;
+	font-weight: bold ;
+}
+form{
+	text-align: center;
+}
+.back-to-top {
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display:none;
+}
